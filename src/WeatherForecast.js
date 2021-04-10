@@ -24,7 +24,7 @@ setForecast(true);
             );
 
 } else {
-    let apiKey="4b726438dc7809618e2da0766d0d1d90";
+    let apiKey="59e529c949e939628fe1860d7197b923";
     let longitude= props.coordinates.lon;
     let latitude= props.coordinates.lat;
     let apiUrl=`https://api.openweathermap.org/data/2.5/onecall?lat=${latitude}&lon=${longitude}&appid=${apiKey}&units=metric`;

@@ -11,9 +11,9 @@ export default function App() {
  
    <footer>
      This project was coded by{" "}
-     <a href=" " target="_blank">
+     <span href=" " target="_blank">
       Camila delagnese 
-      </a>{" "}
+      </span>{" "}
       and is{" "}
       <a href="https://github.com/CamilaDelagnese/react-app"
           target="_blank" rel="noreferrer"> 

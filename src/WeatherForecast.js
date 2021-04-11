@@ -9,7 +9,7 @@ let [forecast, setForecast]= useState(null);
 
 function handleResponse(response){
 setForecast(response.data.daily);
-setForecast(true);
+setLoaded(true);
 }
 
   if (loaded){

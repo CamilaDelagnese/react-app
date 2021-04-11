@@ -3,7 +3,7 @@
     border: 1px solid rgb(135, 135, 135);
     padding: 16px;
     border-radius: 4px;
-    color: rgb(135, 135, 135);
+    color: #3993bd;
 }
 
 .Weather h1 {
@@ -32,7 +32,7 @@ display: inline-block
 
  .Weather .temperature {
      font-weight: bold;
-     color: rgb(33, 33, 33);
+     color: rgb(2, 2, 82);
      font-size: 64px;
      font-weight: 400;
  }
